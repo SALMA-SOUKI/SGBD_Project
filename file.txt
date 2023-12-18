@@ -1,0 +1,2 @@
+thread 2: data 2
+thread 1: data 1
